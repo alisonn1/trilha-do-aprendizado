@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /*margin:100px; aplica 100 pixels aos quatro lados*/
+    /*border-style:solid;
+    border-width: 1px;
+    border-color:darkblue;
+    border-top-color: darkcyan;
+    border-right-color:red;*/
+    border: 1px solid darkred
+    padding 20px;
+    /*margin-top:100px;
+    margin-right:60px;
+    margin-bottom:120px;
+    margin-left:50px;*/
+    margin:100px 80px; /*aplica 100px acima e abaixo e 80px esquerda e direita*/
+    }
+h1{
+    background-color:aqua;
+}
